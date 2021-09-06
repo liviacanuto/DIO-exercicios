@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\bin\Debug\net5.0\appTeste.exe
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\bin\Debug\net5.0\appTeste.deps.json
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\bin\Debug\net5.0\appTeste.runtimeconfig.json
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\bin\Debug\net5.0\appTeste.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\bin\Debug\net5.0\appTeste.dll
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\bin\Debug\net5.0\ref\appTeste.dll
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\bin\Debug\net5.0\appTeste.pdb
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\obj\Debug\net5.0\appTeste.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\obj\Debug\net5.0\appTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\obj\Debug\net5.0\appTeste.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\obj\Debug\net5.0\appTeste.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\obj\Debug\net5.0\appTeste.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\obj\Debug\net5.0\appTeste.dll
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\obj\Debug\net5.0\ref\appTeste.dll
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\obj\Debug\net5.0\appTeste.pdb
+C:\Users\Pichau\Desktop\workspace\DIO-exercicios\helloworld-C#\appTeste\appTeste\obj\Debug\net5.0\appTeste.genruntimeconfig.cache
